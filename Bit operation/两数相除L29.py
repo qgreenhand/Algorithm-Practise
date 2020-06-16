@@ -1,5 +1,7 @@
 class Solution:
-    #两数相除  移位加相除
+    '''
+    给定两个整数，被除数 dividend 和除数 divisor。将两数相除，要求不使用乘法、除法和 mod 运算符。
+    '''
     def divide(self, dividend: int, divisor: int) -> int:
         sign = (dividend > 0) ^ (divisor > 0)
         dividend = abs(dividend)
