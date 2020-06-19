@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Others/最长连续序列L128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Others/LRU缓存机制L146.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prefix summary/和可被K整除的子数组L974.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,24 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Suanfa/Suanfa1_6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Suanfa/Suanfa2_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Suanfa/带权活动安排Suanfa2_5.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +88,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Others/最长连续序列L128.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Others/LRU缓存机制L146.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1349">
+              <caret line="71" column="20" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Prefix summary/和可被K整除的子数组L974.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -183,6 +184,8 @@
         <option value="$PROJECT_DIR$/Others/组合总数L39.py" />
         <option value="$PROJECT_DIR$/Others/跳跃游戏2L45.py" />
         <option value="$PROJECT_DIR$/Others/最长连续序列L128.py" />
+        <option value="$PROJECT_DIR$/Others/LRU缓存机制L146.py" />
+        <option value="$PROJECT_DIR$/Prefix summary/和可被K整除的子数组L974.py" />
       </list>
     </option>
   </component>
@@ -504,7 +507,7 @@
       <workItem from="1592298643037" duration="251000" />
       <workItem from="1592358623985" duration="3944000" />
       <workItem from="1592447386063" duration="3101000" />
-      <workItem from="1592533039525" duration="630000" />
+      <workItem from="1592533039525" duration="1457000" />
     </task>
     <task id="LOCAL-00001" summary="。。。">
       <created>1592298894054</created>
@@ -555,11 +558,18 @@
       <option name="project" value="LOCAL" />
       <updated>1592449477075</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="整理">
+      <created>1592534153206</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592534153206</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256520000" />
+    <option name="totallyTimeSpent" value="257347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -915,6 +925,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/LRU缓存机制L146.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="71" column="20" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prefix summary/和可被K整除的子数组L974.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
