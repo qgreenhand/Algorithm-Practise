@@ -1,4 +1,6 @@
+from typing import List
 class Solution:
+
     '''
     给你一个未排序的整数数组，请你找出其中没有出现的最小的正整数。
     这个题目主要难点在于如何使用常数空间

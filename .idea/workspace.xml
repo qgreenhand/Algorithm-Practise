@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="" />
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/缺失的第一个正数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others/缺失的第一个正数.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +37,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Suanfa/Suanfa3_4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Suanfa/Suanfa3_2.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,11 +109,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Others/合并区间L56.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="304">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Others/缺失的第一个正数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -139,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test11.py" />
         <option value="$PROJECT_DIR$/test15.py" />
         <option value="$PROJECT_DIR$/test29.py" />
         <option value="$PROJECT_DIR$/test122.py" />
@@ -190,6 +192,7 @@
         <option value="$PROJECT_DIR$/Binary search/搜索旋转排序数组L33.py" />
         <option value="$PROJECT_DIR$/Dynamic programming/单词拆分L139.py" />
         <option value="$PROJECT_DIR$/Others/合并区间L56.py" />
+        <option value="$PROJECT_DIR$/Others/缺失的第一个正数.py" />
       </list>
     </option>
   </component>
@@ -543,6 +546,7 @@
       <workItem from="1592964089140" duration="485000" />
       <workItem from="1593053474838" duration="764000" />
       <workItem from="1593184319162" duration="239000" />
+      <workItem from="1593226274285" duration="231000" />
     </task>
     <task id="LOCAL-00001" summary="。。。">
       <created>1592298894054</created>
@@ -691,16 +695,24 @@
       <option name="project" value="LOCAL" />
       <updated>1593184496081</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add">
+      <created>1593226488462</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1593226488462</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262985000" />
+    <option name="totallyTimeSpent" value="263216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4950495" visible="true" weight="0.18230563" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4950495" visible="true" weight="0.18498659" />
       <window_info id="Structure" order="1" sideWeight="0.5049505" side_tool="true" weight="0.363941" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -733,13 +745,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../研究生课程/knapsack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Heapsort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
@@ -1075,8 +1080,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Others/合并区间L56.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="304">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/缺失的第一个正数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
