@@ -10,6 +10,8 @@ class Solution:
     def minSubArrayLen(self, s: int, nums: List[int]) -> int:
         '''
         另一种前缀和配合二分查找的方法
+        由于都是正整数所以前缀和必然是单增的所以可以利用二分查找
+        时间复杂度为O（n*log（n））
         :param s:
         :param nums:
         :return:
