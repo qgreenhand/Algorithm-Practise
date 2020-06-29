@@ -23,6 +23,9 @@ class Solution:
             while i < j:
                 while nums[j] >= key:
                     j -= 1
+                    '''
+                    防止重复的数造成死循环
+                    '''
                     if i == j:
                         break
 

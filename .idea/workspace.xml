@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Others/(重要)数组中第K个最大元素L215.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prefix summary/长度最小子数组L209.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prefix summary/长度最小子数组L209.py" afterDir="false" />
-    </list>
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +111,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Others/(重要)数组中第K个最大元素L215.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -525,7 +525,7 @@
       <workItem from="1593226274285" duration="920000" />
       <workItem from="1593316779625" duration="1197000" />
       <workItem from="1593395987958" duration="528000" />
-      <workItem from="1593409235728" duration="1018000" />
+      <workItem from="1593409235728" duration="1325000" />
     </task>
     <task id="LOCAL-00001" summary="。。。">
       <created>1592298894054</created>
@@ -716,15 +716,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593317552362</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="快速选择">
+      <created>1593411227369</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1593411227369</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="266648000" />
+    <option name="totallyTimeSpent" value="266955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4950495" visible="true" weight="0.1930295" />
       <window_info id="Structure" order="1" sideWeight="0.5049505" side_tool="true" weight="0.363941" />
@@ -757,7 +763,8 @@
     <MESSAGE value="。。。" />
     <MESSAGE value="add" />
     <MESSAGE value="第二种方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二种方法" />
+    <MESSAGE value="快速选择" />
+    <option name="LAST_COMMIT_MESSAGE" value="快速选择" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Double pointer/三数之和L5.py">
@@ -1100,7 +1107,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Others/(重要)数组中第K个最大元素L215.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
