@@ -27,7 +27,7 @@ class Solution:
         nums = [0] + nums
         for i in range(1, len(nums)):
             if nums[i] - s >= 0:
-                # 二分查找
+                # 二分查找 大于等于某个数的第一个位置
                 loc = bisect.bisect_left(nums, nums[i] - s)
                 if nums[i] - nums[loc] >= s:
                     res = min(res, i - loc)
