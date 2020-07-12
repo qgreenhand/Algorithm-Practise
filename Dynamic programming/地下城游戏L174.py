@@ -11,7 +11,7 @@ class Solution:
     def calculateMinimumHP(self, dungeon: List[List[int]]) -> int:
         '''
         这道题暗藏陷阱，它和之前走迷宫不一样。
-        这道题它如果从左上到右下遍历无法动态规划（不满足无后效性）
+        这道题它如果从左上到右下遍历无法动态规划（不满足无后效性）要从右下到左上遍历
         具体看官方题解
         :param dungeon:
         :return:
