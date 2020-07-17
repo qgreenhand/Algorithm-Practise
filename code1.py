@@ -1,14 +1,23 @@
-from typing import List
-class Solution:
-
-    def reverseNumber(self, x,y) :
-        dp=[[0]*x for _ in range(y)]
-        for j in range(x):
-            for i in range(y):
-                if i==0 or j==0:
-                    dp[i][j]=1
-                else:
-                    dp[i][j]=dp[i-1][j]+dp[i][j-1]
-        return  dp[y-1][x-1]
-s=Solution()
-print(s.reverseNumber(20,20))
+#!/usr/bin/env python3
+import os
+import binascii from cryptography.hazmat.primitives.ciphers
+import Cipher , algorithms , modes from cryptography.hazmat.primitives
+import padding from cryptography.hazmat.backends import default_backend
+import argparse
+def readfile_binary(file):
+    with open(file , ’rb’) as f:
+        content = f.read()
+    return content
+def writefile_binary(file , content):
+    with open(file , ’wb’) as f:
+        f.write(content)
+def main():
+    parser = argparse.ArgumentParser(description = ’Some explanation about this code’)
+    parser.add_argument(’-in’, dest = ’input’, required = True)
+    parser.add_argument(’-out’, dest = ’output’, required = True)
+    parser.add_argument(’-K’, dest = ’key’, help = ’The key to be used for encryption , must be in hex’)
+    parser.add_argument(’-iv’, dest = ’iv’, help = ’The Initilisation Vector , must be in hex’)
+    args = parser.parse_args()
+    input_content = readfile_binary(args.input)
+if __name__ == "__main__":
+    main()
