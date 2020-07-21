@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Double pointer/删除排序数组中的重复项II L80.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/不同的二叉搜索树2L95.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/戳气球L312.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/戳气球L312.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,15 +37,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/二叉树序列化和反序列化L297.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/路径总和L112.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,11 +101,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Double pointer/删除排序数组中的重复项II L80.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
-              <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+            <state relative-caret-position="361">
+              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tree/不同的二叉搜索树2L95.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-57">
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -135,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test31.py" />
         <option value="$PROJECT_DIR$/test32.py" />
         <option value="$PROJECT_DIR$/test739.py" />
         <option value="$PROJECT_DIR$/test75.py" />
@@ -186,6 +184,7 @@
         <option value="$PROJECT_DIR$/Dynamic programming/交错字符串L97.py" />
         <option value="$PROJECT_DIR$/Dynamic programming/戳气球L312.py" />
         <option value="$PROJECT_DIR$/Double pointer/删除排序数组中的重复项II L80.py" />
+        <option value="$PROJECT_DIR$/Tree/不同的二叉搜索树2L95.py" />
       </list>
     </option>
   </component>
@@ -568,14 +567,8 @@
       <workItem from="1594959141380" duration="898000" />
       <workItem from="1595069795318" duration="914000" />
       <workItem from="1595120583449" duration="296000" />
-      <workItem from="1595257409560" duration="148000" />
-    </task>
-    <task id="LOCAL-00004" summary="整理">
-      <created>1592448117642</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1592448117642</updated>
+      <workItem from="1595257409560" duration="162000" />
+      <workItem from="1595328503285" duration="256000" />
     </task>
     <task id="LOCAL-00005" summary="整理">
       <created>1592448703004</created>
@@ -913,17 +906,24 @@
       <option name="project" value="LOCAL" />
       <updated>1595120723988</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="add">
+      <created>1595257572759</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1595257572760</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="285235000" />
+    <option name="totallyTimeSpent" value="285505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4950495" visible="true" weight="0.27144772" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4950495" visible="true" weight="0.27479893" />
       <window_info id="Structure" order="1" sideWeight="0.5049505" side_tool="true" weight="0.363941" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -959,13 +959,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Suanfa/Suanfa3_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Suanfa/逆序对Suanfa1_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -1185,9 +1178,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/interview.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/interview.py" />
     <entry file="file://$PROJECT_DIR$/Double pointer/三数之和L5.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1258,8 +1249,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Double pointer/删除排序数组中的重复项II L80.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        <state relative-caret-position="361">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/不同的二叉搜索树2L95.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
