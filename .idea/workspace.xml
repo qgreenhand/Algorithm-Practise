@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tree/不同的二叉搜索树2L95.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +110,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tree/不同的二叉搜索树2L95.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-57">
+            <state relative-caret-position="-123">
               <caret column="23" selection-start-column="23" selection-end-column="23" />
             </state>
           </provider>
@@ -568,14 +565,7 @@
       <workItem from="1595069795318" duration="914000" />
       <workItem from="1595120583449" duration="296000" />
       <workItem from="1595257409560" duration="162000" />
-      <workItem from="1595328503285" duration="256000" />
-    </task>
-    <task id="LOCAL-00005" summary="整理">
-      <created>1592448703004</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1592448703004</updated>
+      <workItem from="1595328503285" duration="457000" />
     </task>
     <task id="LOCAL-00006" summary="整理">
       <created>1592448814073</created>
@@ -913,15 +903,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595257572760</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="add">
+      <created>1595328771285</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1595328771285</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="285505000" />
+    <option name="totallyTimeSpent" value="285706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4950495" visible="true" weight="0.27479893" />
       <window_info id="Structure" order="1" sideWeight="0.5049505" side_tool="true" weight="0.363941" />
@@ -1256,7 +1252,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tree/不同的二叉搜索树2L95.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
+        <state relative-caret-position="-123">
           <caret column="23" selection-start-column="23" selection-end-column="23" />
         </state>
       </provider>
