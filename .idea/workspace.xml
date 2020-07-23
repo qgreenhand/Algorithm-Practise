@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Others/旋转图像L48.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others/旋转图像L48.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -570,14 +569,7 @@
       <workItem from="1595257409560" duration="162000" />
       <workItem from="1595328503285" duration="457000" />
       <workItem from="1595328994321" duration="177000" />
-      <workItem from="1595430155065" duration="544000" />
-    </task>
-    <task id="LOCAL-00008" summary="整理">
-      <created>1592534153206</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1592534153206</updated>
+      <workItem from="1595430155065" duration="550000" />
     </task>
     <task id="LOCAL-00009" summary="整理">
       <created>1592534979143</created>
@@ -915,15 +907,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595430675277</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="add">
+      <created>1595430707758</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1595430707758</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="286427000" />
+    <option name="totallyTimeSpent" value="286433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4950495" visible="true" weight="0.28284183" />
       <window_info id="Structure" order="1" sideWeight="0.5049505" side_tool="true" weight="0.363941" />
