@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/List/合并K个有序链表L23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary search/分割数组最大值L410.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,15 +37,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Others/用两个栈实现队列.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Others/最长连续序列L128.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -114,11 +105,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/List/合并K个有序链表L23.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="931">
+            <state relative-caret-position="619">
               <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Binary search/分割数组最大值L410.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="30" column="26" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -138,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Suanfa/test78.py" />
         <option value="$PROJECT_DIR$/Heapsort.py" />
         <option value="$PROJECT_DIR$/Quicksort.py" />
         <option value="$PROJECT_DIR$/Suanfa/Suanfa1_2.py" />
@@ -189,6 +188,7 @@
         <option value="$PROJECT_DIR$/Others/旋转图像L48.py" />
         <option value="$PROJECT_DIR$/Others/子集L78.py" />
         <option value="$PROJECT_DIR$/List/合并K个有序链表L23.py" />
+        <option value="$PROJECT_DIR$/Binary search/分割数组最大值L410.py" />
       </list>
     </option>
   </component>
@@ -249,6 +249,11 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Suanfa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -576,14 +581,10 @@
       <workItem from="1595328994321" duration="177000" />
       <workItem from="1595430155065" duration="550000" />
       <workItem from="1595517998101" duration="179000" />
-      <workItem from="1595584625054" duration="764000" />
-    </task>
-    <task id="LOCAL-00010" summary="整理">
-      <created>1592535262625</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1592535262625</updated>
+      <workItem from="1595584625054" duration="772000" />
+      <workItem from="1595640579664" duration="1267000" />
+      <workItem from="1595680728163" duration="20000" />
+      <workItem from="1595689822557" duration="896000" />
     </task>
     <task id="LOCAL-00011" summary="整理">
       <created>1592535279300</created>
@@ -921,17 +922,24 @@
       <option name="project" value="LOCAL" />
       <updated>1595518153661</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="add">
+      <created>1595585397077</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1595585397078</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="287376000" />
+    <option name="totallyTimeSpent" value="289567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49433428" visible="true" weight="0.29088473" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49433428" visible="true" weight="0.30294907" />
       <window_info id="Structure" order="1" sideWeight="0.5056657" side_tool="true" weight="0.29088473" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -967,13 +975,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dynamic programming/地下城游戏L174.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Others/求数组交集L350.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1265,8 +1266,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/List/合并K个有序链表L23.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
+        <state relative-caret-position="619">
           <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary search/分割数组最大值L410.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="26" />
         </state>
       </provider>
     </entry>
