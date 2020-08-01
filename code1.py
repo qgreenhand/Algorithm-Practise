@@ -1,23 +1,39 @@
-#!/usr/bin/env python3
-import os
-import binascii from cryptography.hazmat.primitives.ciphers
-import Cipher , algorithms , modes from cryptography.hazmat.primitives
-import padding from cryptography.hazmat.backends import default_backend
-import argparse
-def readfile_binary(file):
-    with open(file , ’rb’) as f:
-        content = f.read()
-    return content
-def writefile_binary(file , content):
-    with open(file , ’wb’) as f:
-        f.write(content)
-def main():
-    parser = argparse.ArgumentParser(description = ’Some explanation about this code’)
-    parser.add_argument(’-in’, dest = ’input’, required = True)
-    parser.add_argument(’-out’, dest = ’output’, required = True)
-    parser.add_argument(’-K’, dest = ’key’, help = ’The key to be used for encryption , must be in hex’)
-    parser.add_argument(’-iv’, dest = ’iv’, help = ’The Initilisation Vector , must be in hex’)
-    args = parser.parse_args()
-    input_content = readfile_binary(args.input)
+#coding=utf-8
+# 本题为考试多行输入输出规范示例，无需提交，不计分。
+import sys
 if __name__ == "__main__":
-    main()
+    # 读取第一行的n
+    n = int(sys.stdin.readline().strip())
+    ans = 0
+    nums=[]
+    for i in range(n):
+        # 读取每一行
+        nums.append( sys.stdin.readline().strip())
+        
+    def test(n:str):
+        n=int(n)
+        dp=[0]*(n+1)
+        if n>=2:
+            #n==2时必输
+            dp[2]=0
+        if n>=3:
+            dp[3]=0
+
+            for i in range(3,n+1):
+                maxdo = i // 3
+                #第一回合最多抽牌为三分之一否则下一步必输
+                winflag=0
+                for j in range(1,maxdo+1):
+                    for k in range(1,j*2+1):
+                        if dp[i-j-k]==1:
+                            winflag=1
+                            break
+                    if winflag==1:
+                        break
+                dp[i]=winflag
+        return dp[n]
+    res=0
+    for i in nums:
+        if test(i)==1:
+            res+=1
+    print(res)
