@@ -1,6 +1,6 @@
 import heapq
 
-
+from typing import List
 class Solution:
     '''
     你有 k 个升序排列的整数数组。找到一个最小区间，使得 k 个列表中的每个列表至少有一个数包含在其中
