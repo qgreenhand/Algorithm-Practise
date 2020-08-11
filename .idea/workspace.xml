@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/被围绕的区域L130.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others/被围绕的区域L130.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,15 +40,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Double pointer/分隔链表L86.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dynamic programming/整数拆分L343.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,6 +100,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Others/被围绕的区域L130.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/相同的树L100.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -126,7 +127,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Others/计数二进制字串L696.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
@@ -151,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Others/最长连续序列L128.py" />
         <option value="$PROJECT_DIR$/Others/LRU缓存机制L146.py" />
         <option value="$PROJECT_DIR$/Prefix summary/和可被K整除的子数组L974.py" />
         <option value="$PROJECT_DIR$/Dynamic programming/最大正方形L221.py" />
@@ -202,6 +202,7 @@
         <option value="$PROJECT_DIR$/Tree/相同的树L100.py" />
         <option value="$PROJECT_DIR$/Tree/恢复二叉搜索树L99.py" />
         <option value="$PROJECT_DIR$/Others/计数二进制字串L696.py" />
+        <option value="$PROJECT_DIR$/Others/被围绕的区域L130.py" />
       </list>
     </option>
   </component>
@@ -227,6 +228,11 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Topological sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -560,13 +566,7 @@
       <workItem from="1596815172845" duration="729000" />
       <workItem from="1596900230823" duration="699000" />
       <workItem from="1597073693003" duration="789000" />
-    </task>
-    <task id="LOCAL-00027" summary="第二种方法">
-      <created>1593317552362</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1593317552362</updated>
+      <workItem from="1597144436969" duration="294000" />
     </task>
     <task id="LOCAL-00028" summary="快速选择">
       <created>1593411227369</created>
@@ -904,7 +904,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597073953603</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="add">
+      <created>1597144660998</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1597144660998</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -919,12 +926,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="304185000" />
+    <option name="totallyTimeSpent" value="304479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49433428" visible="true" weight="0.36126006" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49433428" visible="true" weight="0.36595175" />
       <window_info id="Structure" order="1" sideWeight="0.5056657" side_tool="true" weight="0.29088473" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -960,13 +968,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dynamic programming/恢复空格Lm17.13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dynamic programming/括号生成L22.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-342" />
@@ -1224,16 +1225,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Topological sort/课程表L207.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tree/相同的树L100.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1252,6 +1243,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topological sort/课程表L207.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/被围绕的区域L130.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>

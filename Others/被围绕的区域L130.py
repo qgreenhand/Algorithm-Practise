@@ -1,3 +1,4 @@
+from typing import List
 class Solution:
     '''
     给定一个二维的矩阵，包含 'X' 和 'O'（字母 O）。
@@ -6,6 +7,8 @@ class Solution:
 
     def solve(self, board: List[List[str]]) -> None:
         '''
+        简单来说是找到所有边界为o的进行dfs，把o标为A
+        然后再遍历把剩余o变成X A还原成O
 
         '''
         if not board:
