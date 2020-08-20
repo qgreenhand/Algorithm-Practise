@@ -13,8 +13,6 @@ class Solution:
         由于找左边界考虑左开右闭
         但是实际上这种做法错误因为不保证有没有重复元素
         下面跳跃法
-
-
         '''
 
         if not nums: return -1
