@@ -12,7 +12,6 @@ class Solution:
         否则取i+1
         如果等于k代表找到了
         '''
-
         def one_quicksort(start, end, nums: List):
             '''
             用来进行一轮快排，返回值为完成后的下标
