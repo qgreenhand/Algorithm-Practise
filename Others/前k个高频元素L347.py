@@ -8,3 +8,9 @@ class Solution:
         :param k:
         :return:
         '''
+        def onesort():
+            '''
+            进行一轮快排
+            主要用于取第
+            :return:
+            '''
