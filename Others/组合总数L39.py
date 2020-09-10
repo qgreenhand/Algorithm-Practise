@@ -4,6 +4,9 @@ class Solution:
         '''
         给定一个无重复元素的数组 candidates 和一个目标数 target ，找出 candidates 中所有可以使数字和为 target 的组合。
         candidates 中的数字可以无限制重复被选取。
+        还有一题组合总数二：和这题的区别是组合总数二candidates里面存在重复数字但是结果不允许出现重复答案
+        比如[1，7，1]  target=8
+        答案应该是[[1,7]]而不是[[1，7],[7,1]]
         :param candidates:
         :param target:
         :return:
