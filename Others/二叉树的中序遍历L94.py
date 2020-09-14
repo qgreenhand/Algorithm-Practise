@@ -6,29 +6,26 @@ class TreeNode:
         self.left = None
         self.right = None
 
+
 class Solution:
     def inorderTraversal(self, root: TreeNode) -> List[int]:
         """
         用迭代算法
         采用栈作为信息保存数据结构
-        卧槽这个中序遍历不会写了
+        注意这个题目的一些细节条件。。。
+        简直难顶就因为一点点错误耗了好长时间
+        蠢哭了
         """
         if not root:
             return []
-        stack = []
-        res = []
-        curr = None
-        if root.left:
-            curr = root.left
-        stack.append(root)
-        while stack:
-
-            while curr:  # 遍历到最左下
+        stack=[]
+        res=[]
+        curr=root
+        while stack or curr:                  #就因为这个条件判断错了半天
+            while curr:                       #遍历到最左下
                 stack.append(curr)
-                curr = curr.left
-            curr = stack.pop()
-
+                curr=curr.left
+            curr=stack.pop()
             res.append(curr.val)
-            curr = curr.right
-
+            curr=curr.right
         return res
