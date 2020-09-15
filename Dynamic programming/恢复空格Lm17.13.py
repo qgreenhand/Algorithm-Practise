@@ -10,7 +10,7 @@ class Solution:
     def respace(self, dictionary: List[str], sentence: str) -> int:
         '''
         动态规划解决
-        主要就是当遍历到单dp[i]考察sentence[i-j:i]在不在字典里面如果在的话就dp[i]=dp[i-j]
+        主要就是当遍历到字母dp[i]考察sentence[i-j:i]在不在字典里面如果在的话就dp[i]=dp[i-j]
         把字典里面每个单词都试一遍找到最小的可能
         如果不在就dp[i]=dp[i-1]+1
         :param dictionary:
