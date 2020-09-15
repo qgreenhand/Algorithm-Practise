@@ -8,7 +8,9 @@ from typing import List
 class Solution:
     '''
     给定一个按照升序排列的整数数组 nums，和一个目标值 target。找出给定目标值在数组中的开始位置和结束位置。
-    这个题目我用的方法不太好，建议去看上面网址比较有价值
+    求数组第一个位置函数是searchFirst。。。还是挺简单的之前被tm前面那个题解忽悠了。。。。
+    2020/09/15
+    当然searchLast同理
     '''
 
     def searchRange(self, nums: List[int], target: int) -> List[int]:
@@ -45,3 +47,27 @@ class Solution:
             start = start + 1
             end = end - 1
             return [start, end]
+
+
+    def searchFirst(self, nums: List[int], target: int):
+        """
+        通过二分查找找到出现的第一个target的下标
+        :param nums:
+        :param target:
+        :return:
+        """
+        start=0
+        end=len(nums)-1
+
+        while(start<=end):
+            mid=start+(start-end)//2            #另外求mid的时候最好这么写，这样写可以防止start end 过大 start+end导致和值溢出
+            if nums[mid]==target:               #由于是要找到第一个出现的所以就算找到了还是要向左边找
+                end=mid-1
+            elif nums[mid]>target:
+                end=mid-1
+            elif nums[mid]<target:
+                start =mid+ 1
+        if nums[start]==target and start<len(nums)-1:   #此时 start 和 end 的位置关系是 [start, end] 所以需要对start进行边界判断
+            return start
+        else:
+            return -1
