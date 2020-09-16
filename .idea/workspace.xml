@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prefix summary/和可被K整除的子数组L974.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prefix summary/和可被K整除的子数组L974.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +73,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Prefix summary/和可被K整除的子数组L974.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -115,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Tree/将有序数组转化为二叉搜索树L108.py" />
         <option value="$PROJECT_DIR$/Dynamic programming/接雨水L42.py" />
         <option value="$PROJECT_DIR$/Dynamic programming/正则表达式匹配L10.py" />
         <option value="$PROJECT_DIR$/Dynamic programming/通配符匹配L45.py" />
@@ -166,6 +170,7 @@
         <option value="$PROJECT_DIR$/Bit operation/数字范围按位与L201.py" />
         <option value="$PROJECT_DIR$/Dynamic programming/恢复空格Lm17.13.py" />
         <option value="$PROJECT_DIR$/Dynamic programming/戳气球L312.py" />
+        <option value="$PROJECT_DIR$/Prefix summary/和可被K整除的子数组L974.py" />
       </list>
     </option>
   </component>
@@ -571,14 +576,7 @@
       <workItem from="1599978228089" duration="653000" />
       <workItem from="1600044806120" duration="1313000" />
       <workItem from="1600149127609" duration="6778000" />
-      <workItem from="1600265469191" duration="585000" />
-    </task>
-    <task id="LOCAL-00049" summary="add">
-      <created>1594778420760</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1594778420760</updated>
+      <workItem from="1600265469191" duration="906000" />
     </task>
     <task id="LOCAL-00050" summary="add">
       <created>1594960473992</created>
@@ -916,7 +914,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600159078155</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="review">
+      <created>1600266279243</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1600266279243</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -931,7 +936,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="324439000" />
+    <option name="totallyTimeSpent" value="324760000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -981,7 +986,6 @@
     <MESSAGE value="add" />
     <MESSAGE value="todo" />
     <MESSAGE value="review the 99" />
-    <MESSAGE value="review" />
     <MESSAGE value="add todo" />
     <MESSAGE value="review L39" />
     <MESSAGE value="just test about combination123" />
@@ -991,7 +995,8 @@
     <MESSAGE value="review 34 about binary search" />
     <MESSAGE value="review L201" />
     <MESSAGE value="review and add some comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="review and add some comment" />
+    <MESSAGE value="review" />
+    <option name="LAST_COMMIT_MESSAGE" value="review" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Double pointer/删除排序数组中的重复项II L80.py">
@@ -1260,7 +1265,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Prefix summary/和可被K整除的子数组L974.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
