@@ -1,9 +1,15 @@
 from typing import List
 class Solution:
+    '''
+    给定一个整数数组 A，返回其中元素之和可被 K 整除的（连续、非空）子数组的数目。
+    '''
     def subarraysDivByK(self, A: List[int], K: int) -> int:
         '''
         忙于安卓实在没时间写
 
+        。。。
+        2020/09/16  review
+        这个题目使用字典用于存储对应的余数值的上一个位置
         '''
         res = 0
         pre_mod = 0  # 存储当前位置的上一个位置的前缀和的余数加上当前位置的值对K的余数
