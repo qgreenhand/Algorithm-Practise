@@ -26,6 +26,8 @@ class Solution:
             。。。
             右子树并不是无需pre_value,因为虽然右子树值都大于根节点但是不大于爷爷节点和爷爷节点的右子树
             然后返回值不能是右子树根节点的值，得是右子树的和
+            。。。
+            sb了思路是对的但是怎么那么脑残写了这么麻烦的方式，一定是昨晚没睡好
             '''
             if not root:
                 return 0
@@ -38,3 +40,20 @@ class Solution:
             return right_sum
         dfs_changed(root,0)
         return root
+
+    class Solution:
+        def convertBST(self, root: TreeNode) -> TreeNode:
+            def dfs(root: TreeNode):
+                nonlocal total
+                if root:
+                    dfs(root.right)
+                    total += root.val
+                    root.val = total
+                    dfs(root.left)
+
+            total = 0
+            dfs(root)
+            return root
+
+
+
