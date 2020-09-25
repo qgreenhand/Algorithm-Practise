@@ -41,3 +41,27 @@ class Solution:
         idx_map = {val: idx for idx, val in enumerate(inorder)}
         return helper(0, len(inorder) - 1)
 
+    def buildTree(self, inorder: List[int], postorder: List[int]) -> TreeNode:
+        """
+        我写的。。。
+        效率很低但是易于理解
+        :param inorder:
+        :param postorder:
+        :return:
+        """
+        if not inorder or not postorder:
+            return None
+        root_val = postorder[-1]
+        root = TreeNode(root_val)
+        index = inorder.index(root_val)
+        right_length = (len(inorder) - 1) - index
+        left_length = index
+        left = right = None
+        if right_length > 0:
+            right = self.buildTree(inorder[index + 1:], postorder[index:index + right_length])
+        if left_length > 0:
+            left = self.buildTree(inorder[:left_length], postorder[:left_length])
+        root.left = left
+        root.right = right
+        return root
+
