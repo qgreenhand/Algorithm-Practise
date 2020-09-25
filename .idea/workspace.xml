@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Tree/根据前序和后序遍历构造二叉树L889.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/从中序与后序遍历序列构造二叉树L106.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/从中序与后序遍历序列构造二叉树L106.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,11 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/从中序与后序遍历序列构造二叉树L106.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+            <state relative-caret-position="604">
+              <caret line="56" column="49" lean-forward="true" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tree/根据前序和后序遍历构造二叉树L889.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -88,11 +97,6 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/恢复二叉搜索树L99.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic programming/通配符匹配L45.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -126,7 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Dynamic programming/最佳买卖股票时机含冷冻期L309.py" />
         <option value="$PROJECT_DIR$/Dynamic programming/地下城游戏L174.py" />
         <option value="$PROJECT_DIR$/Others/求数组交集L350.py" />
         <option value="$PROJECT_DIR$/Others/链表倒数第k节点(剑指offer22).py" />
@@ -177,6 +180,7 @@
         <option value="$PROJECT_DIR$/Tree/二叉搜索树的众数L501(Morris).py" />
         <option value="$PROJECT_DIR$/Morris中序遍历.py" />
         <option value="$PROJECT_DIR$/Tree/从中序与后序遍历序列构造二叉树L106.py" />
+        <option value="$PROJECT_DIR$/Tree/根据前序和后序遍历构造二叉树L889.py" />
       </list>
     </option>
   </component>
@@ -557,14 +561,7 @@
       <workItem from="1600646795366" duration="1466000" />
       <workItem from="1600734190462" duration="1956000" />
       <workItem from="1600905999815" duration="4115000" />
-      <workItem from="1600995986935" duration="1526000" />
-    </task>
-    <task id="LOCAL-00057" summary="add">
-      <created>1595430707758</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1595430707758</updated>
+      <workItem from="1600995986935" duration="2261000" />
     </task>
     <task id="LOCAL-00058" summary="add">
       <created>1595518153660</created>
@@ -902,7 +899,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600996499897</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="构造二叉树">
+      <created>1600997535478</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1600997535478</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -917,7 +921,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="335505000" />
+    <option name="totallyTimeSpent" value="336240000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -985,9 +989,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="构造二叉树" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Others/链表倒数第k节点(剑指offer22).py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/List/合并K个有序链表L23.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1246,8 +1247,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tree/从中序与后序遍历序列构造二叉树L106.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        <state relative-caret-position="604">
+          <caret line="56" column="49" lean-forward="true" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/根据前序和后序遍历构造二叉树L889.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
         </state>
       </provider>
     </entry>
