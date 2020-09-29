@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="" />
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="add">
+      <change afterPath="$PROJECT_DIR$/Tree/二叉树的后序遍历L145.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,19 +41,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Morris中序遍历.py">
+        <entry file="file://$PROJECT_DIR$/Tree/根据前序和后序遍历构造二叉树L889.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state relative-caret-position="114">
+              <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/把二叉搜索树转换为累加树L538.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tree/二叉树的后序遍历L145.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+            <state relative-caret-position="418">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -58,28 +61,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/从中序与后序遍历序列构造二叉树L106.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="56" column="49" lean-forward="true" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tree/根据前序和后序遍历构造二叉树L889.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+            <state relative-caret-position="1064">
+              <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/二叉树序列化和反序列化L297.py">
+        <entry file="file://$PROJECT_DIR$/Tree/监控二叉树L968.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="399">
+              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/相同的树L100.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/路径总和L112.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -94,11 +98,6 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/恢复二叉搜索树L99.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dynamic programming/正则表达式匹配L10.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -127,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Dynamic programming/地下城游戏L174.py" />
-        <option value="$PROJECT_DIR$/Others/求数组交集L350.py" />
         <option value="$PROJECT_DIR$/Others/链表倒数第k节点(剑指offer22).py" />
         <option value="$PROJECT_DIR$/Dynamic programming/不同的二叉搜索树L96.py" />
         <option value="$PROJECT_DIR$/Double pointer/移除元素L27.py" />
@@ -178,10 +175,12 @@
         <option value="$PROJECT_DIR$/Morris中序遍历.py" />
         <option value="$PROJECT_DIR$/Tree/从中序与后序遍历序列构造二叉树L106.py" />
         <option value="$PROJECT_DIR$/Tree/根据前序和后序遍历构造二叉树L889.py" />
+        <option value="$PROJECT_DIR$/Tree/填充每个节点的下一个右侧节点指针 II L117.py" />
+        <option value="$PROJECT_DIR$/Tree/二叉树的后序遍历L145.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-15" />
     <option name="width" value="1750" />
     <option name="height" value="1055" />
@@ -559,13 +558,8 @@
       <workItem from="1600734190462" duration="1956000" />
       <workItem from="1600905999815" duration="4115000" />
       <workItem from="1600995986935" duration="2294000" />
-    </task>
-    <task id="LOCAL-00059" summary="add">
-      <created>1595585397077</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1595585397078</updated>
+      <workItem from="1601253996669" duration="803000" />
+      <workItem from="1601338132243" duration="1309000" />
     </task>
     <task id="LOCAL-00060" summary="add">
       <created>1595691058841</created>
@@ -903,7 +897,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600998852105</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="add">
+      <created>1601254149967</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1601254149968</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -918,7 +919,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="336273000" />
+    <option name="totallyTimeSpent" value="338385000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -930,9 +931,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-12" y="0" width="1400" height="844" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49433428" visible="true" weight="0.25134048" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49433428" visible="true" weight="0.2876304" />
       <window_info id="Structure" order="1" sideWeight="0.5056657" side_tool="true" weight="0.29088473" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -963,7 +965,6 @@
     <MESSAGE value="。。。" />
     <MESSAGE value="第二种方法" />
     <MESSAGE value="快速选择" />
-    <MESSAGE value="add" />
     <MESSAGE value="todo" />
     <MESSAGE value="review the 99" />
     <MESSAGE value="add todo" />
@@ -982,33 +983,10 @@
     <MESSAGE value="ADD the todo, so i can review some time" />
     <MESSAGE value="Morris" />
     <MESSAGE value="构造二叉树" />
-    <option name="LAST_COMMIT_MESSAGE" value="构造二叉树" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/List/合并K个有序链表L23.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Others/合并区间L56.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Others/下一个排列L31.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Others/(重要)数组中第K个最大元素L215.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Others/LRU缓存机制L146.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1178,13 +1156,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/监控二叉树L968.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tree/二叉搜索树的众数L501(Morris).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1201,29 +1172,63 @@
     <entry file="file://$PROJECT_DIR$/Dynamic programming/通配符匹配L45.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic programming/正则表达式匹配L10.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic programming/接雨水L42.py">
+    <entry file="file://$PROJECT_DIR$/Morris中序遍历.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        <state relative-caret-position="589">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Morris中序遍历.py">
+    <entry file="file://$PROJECT_DIR$/Tree/把二叉搜索树转换为累加树L538.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        <state relative-caret-position="779">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tree/二叉树序列化和反序列化L297.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
+        <state relative-caret-position="969">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic programming/正则表达式匹配L10.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/根据前序和后序遍历构造二叉树L889.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/填充每个节点的下一个右侧节点指针 II L117.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/从中序与后序遍历序列构造二叉树L106.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/监控二叉树L968.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/相同的树L100.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/路径总和L112.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Tree/另一个树的子树L572.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1234,24 +1239,17 @@
     <entry file="file://$PROJECT_DIR$/Tree/恢复二叉搜索树L99.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/把二叉搜索树转换为累加树L538.py">
+    <entry file="file://$PROJECT_DIR$/Dynamic programming/接雨水L42.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        <state relative-caret-position="76">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/从中序与后序遍历序列构造二叉树L106.py">
+    <entry file="file://$PROJECT_DIR$/Tree/二叉树的后序遍历L145.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="56" column="49" lean-forward="true" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/根据前序和后序遍历构造二叉树L889.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
