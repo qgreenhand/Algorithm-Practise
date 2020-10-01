@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="add">
-      <change afterPath="$PROJECT_DIR$/Tree/二叉树的后序遍历L145.py" afterDir="false" />
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dynamic programming/秋叶收藏集L LCP19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,19 +41,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/根据前序和后序遍历构造二叉树L889.py">
+        <entry file="file://$PROJECT_DIR$/Tree/二叉树的后序遍历L145.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+            <state relative-caret-position="513">
+              <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tree/二叉树的后序遍历L145.py">
+        <entry file="file://$PROJECT_DIR$/Dynamic programming/秋叶收藏集L LCP19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="209">
+              <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -126,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Others/链表倒数第k节点(剑指offer22).py" />
-        <option value="$PROJECT_DIR$/Dynamic programming/不同的二叉搜索树L96.py" />
         <option value="$PROJECT_DIR$/Double pointer/移除元素L27.py" />
         <option value="$PROJECT_DIR$/Dynamic programming/交错字符串L97.py" />
         <option value="$PROJECT_DIR$/Double pointer/删除排序数组中的重复项II L80.py" />
@@ -176,14 +174,16 @@
         <option value="$PROJECT_DIR$/Tree/从中序与后序遍历序列构造二叉树L106.py" />
         <option value="$PROJECT_DIR$/Tree/根据前序和后序遍历构造二叉树L889.py" />
         <option value="$PROJECT_DIR$/Tree/填充每个节点的下一个右侧节点指针 II L117.py" />
+        <option value="$PROJECT_DIR$/Tree/二叉树中序遍历L94.py" />
         <option value="$PROJECT_DIR$/Tree/二叉树的后序遍历L145.py" />
+        <option value="$PROJECT_DIR$/Dynamic programming/秋叶收藏集L LCP19.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-15" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="146" />
     <option name="width" value="1750" />
-    <option name="height" value="1055" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -201,7 +201,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic programming" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -559,28 +559,8 @@
       <workItem from="1600905999815" duration="4115000" />
       <workItem from="1600995986935" duration="2294000" />
       <workItem from="1601253996669" duration="803000" />
-      <workItem from="1601338132243" duration="1309000" />
-    </task>
-    <task id="LOCAL-00060" summary="add">
-      <created>1595691058841</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1595691058841</updated>
-    </task>
-    <task id="LOCAL-00061" summary="add">
-      <created>1595692486385</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1595692486385</updated>
-    </task>
-    <task id="LOCAL-00062" summary="add">
-      <created>1595692531622</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1595692531622</updated>
+      <workItem from="1601338132243" duration="1841000" />
+      <workItem from="1601564179738" duration="348000" />
     </task>
     <task id="LOCAL-00063" summary="add">
       <created>1595820720651</created>
@@ -904,7 +884,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601254149968</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="add">
+      <created>1601343914711</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1601343914712</updated>
+    </task>
+    <task id="LOCAL-00110" summary="add">
+      <created>1601343972848</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1601343972848</updated>
+    </task>
+    <task id="LOCAL-00111" summary="add">
+      <created>1601344440172</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1601344440173</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -919,7 +920,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338385000" />
+    <option name="totallyTimeSpent" value="339265000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -931,10 +932,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-12" y="0" width="1400" height="844" extended-state="0" />
+    <frame x="117" y="0" width="1400" height="844" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49433428" visible="true" weight="0.2876304" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49433428" visible="true" weight="0.29210135" />
       <window_info id="Structure" order="1" sideWeight="0.5056657" side_tool="true" weight="0.29088473" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -987,16 +988,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Others/LRU缓存机制L146.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Others/二叉树的中序遍历L94.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Binary search/分割数组最大值L410.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
@@ -1210,6 +1201,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/二叉树的后序遍历L145.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/二叉树中序遍历L94.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tree/从中序与后序遍历序列构造二叉树L106.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
@@ -1246,10 +1251,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/二叉树的后序遍历L145.py">
+    <entry file="file://$PROJECT_DIR$/Dynamic programming/秋叶收藏集L LCP19.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="209">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
         </state>
       </provider>
     </entry>
