@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Double pointer/四数之和L18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +180,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="145" />
     <option name="width" value="1750" />
-    <option name="height" value="1039" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -201,7 +198,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic programming" type="462c0819:PsiDirectoryNode" />
+              <item name="Double pointer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -561,14 +558,7 @@
       <workItem from="1601253996669" duration="803000" />
       <workItem from="1601338132243" duration="1841000" />
       <workItem from="1601564179738" duration="365000" />
-      <workItem from="1601863581662" duration="226000" />
-    </task>
-    <task id="LOCAL-00064" summary="add">
-      <created>1595938345551</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1595938345551</updated>
+      <workItem from="1601863581662" duration="830000" />
     </task>
     <task id="LOCAL-00065" summary="add">
       <created>1596119350750</created>
@@ -906,7 +896,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601564553037</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="add">
+      <created>1601863819649</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1601863819649</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -921,7 +918,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="339282000" />
+    <option name="totallyTimeSpent" value="340112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
