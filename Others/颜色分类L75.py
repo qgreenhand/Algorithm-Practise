@@ -13,7 +13,6 @@ class Solution:
         p0 = curr = 0
         # 对于所有 idx > p2 : nums[idx > p2] = 2
         p2 = len(nums) - 1
-
         while curr <= p2:
             if nums[curr] == 0:
                 nums[p0], nums[curr] = nums[curr], nums[p0]
