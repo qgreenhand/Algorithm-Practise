@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Others/最多的不重叠子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/概率最大路径(Dijkstra)L1514.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,15 +41,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Others/颜色分类L75.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/子树中标签相同的节点数 L1519.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -57,9 +49,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Others/最多的不重叠子串L1520.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Graph/概率最大路径(Dijkstra)L1514.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-95">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -121,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/List/合并K个有序链表L23.py" />
-        <option value="$PROJECT_DIR$/Double pointer/分隔链表L86.py" />
         <option value="$PROJECT_DIR$/Dynamic programming/整数拆分L343.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/do.py" />
@@ -172,6 +175,8 @@
         <option value="$PROJECT_DIR$/Double pointer/环路检测L面试题 02_08.py" />
         <option value="$PROJECT_DIR$/Tree/子树中标签相同的节点数 L1519.py" />
         <option value="$PROJECT_DIR$/Others/最多的不重叠子串.py" />
+        <option value="$PROJECT_DIR$/Others/最多的不重叠子串L1520.py" />
+        <option value="$PROJECT_DIR$/Graph/概率最大路径(Dijkstra)L1514.py" />
       </list>
     </option>
   </component>
@@ -186,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,15 +198,11 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Others" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -561,21 +561,8 @@
       <workItem from="1602064286191" duration="306000" />
       <workItem from="1602082528964" duration="597000" />
       <workItem from="1602202489725" duration="883000" />
-      <workItem from="1602239084005" duration="1483000" />
-    </task>
-    <task id="LOCAL-00069" summary="add">
-      <created>1596297122839</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1596297122839</updated>
-    </task>
-    <task id="LOCAL-00070" summary="add">
-      <created>1596382895300</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1596382895301</updated>
+      <workItem from="1602239084005" duration="1789000" />
+      <workItem from="1602342588354" duration="240000" />
     </task>
     <task id="LOCAL-00071" summary="add">
       <created>1596541656202</created>
@@ -906,7 +893,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602239333102</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="add">
+      <created>1602242416111</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1602242416111</updated>
+    </task>
+    <task id="LOCAL-00119" summary="add">
+      <created>1602242673070</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1602242673070</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -921,7 +922,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="343541000" />
+    <option name="totallyTimeSpent" value="344087000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -936,7 +937,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49433428" visible="true" weight="0.28485253" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49433428" visible="true" weight="0.288874" />
       <window_info id="Structure" order="1" sideWeight="0.5056657" side_tool="true" weight="0.29088473" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -989,13 +990,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Bit operation/数字范围按位与L201.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Double pointer/三数之和L5.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1224,6 +1218,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/子树中标签相同的节点数 L1519.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Double pointer/环路检测L面试题 02_08.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1253,15 +1254,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/子树中标签相同的节点数 L1519.py">
+    <entry file="file://$PROJECT_DIR$/Others/最多的不重叠子串L1520.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        <state relative-caret-position="380">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Others/最多的不重叠子串L1520.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Graph/概率最大路径(Dijkstra)L1514.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
