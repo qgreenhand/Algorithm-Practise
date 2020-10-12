@@ -49,8 +49,10 @@ class Solution:
             """
             官网使用的迪杰斯特拉算法
             并用优先队列进行了优化
-            TODO
-            /看/
+
+            这道题可以用迪杰斯特拉的原因是这道题是为了获取最“大”概率路径
+                而由于乘法性质路径延申概率是单调递减的。
+
             :param n:
             :param edges:
             :param succProb:
@@ -63,6 +65,8 @@ class Solution:
                 graph[x].append((succProb[i], y))
                 graph[y].append((succProb[i], x))
 
+            #这里-1应该是方便优先队列优化
+            #优先队列默认是出最小元素值出来(即最小元素在堆顶)，但是这里是要获取最大的概率值
             que = [(-1.0, start)]
             prob = [0.0] * n
             prob[start] = 1.0
