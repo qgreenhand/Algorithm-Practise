@@ -79,6 +79,7 @@ class Solution:
                 for prNext, nodeNext in graph[node]:
                     if prob[nodeNext] < prob[node] * prNext:
                         prob[nodeNext] = prob[node] * prNext
+
                         heapq.heappush(que, (-prob[nodeNext], nodeNext))
 
             return prob[end]
