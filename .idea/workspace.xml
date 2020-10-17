@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tree/好叶子节点对的数量L1530.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tree/好叶子节点对的数量L1530.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+            <state relative-caret-position="319">
+              <caret line="48" column="28" lean-forward="true" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -579,14 +576,7 @@
       <workItem from="1602722604487" duration="252000" />
       <workItem from="1602726191290" duration="1435000" />
       <workItem from="1602740167720" duration="118000" />
-      <workItem from="1602810468373" duration="2362000" />
-    </task>
-    <task id="LOCAL-00077" summary="add">
-      <created>1597144743600</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1597144743600</updated>
+      <workItem from="1602810468373" duration="3268000" />
     </task>
     <task id="LOCAL-00078" summary="add">
       <created>1597243022616</created>
@@ -924,7 +914,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602728189499</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="add">
+      <created>1602813006208</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1602813006209</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -939,7 +936,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="355618000" />
+    <option name="totallyTimeSpent" value="356524000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -952,7 +949,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49433428" visible="true" weight="0.32573727" />
       <window_info id="Structure" order="1" sideWeight="0.5056657" side_tool="true" weight="0.29088473" />
@@ -1002,10 +998,10 @@
     <MESSAGE value="构造二叉树" />
     <MESSAGE value="todo" />
     <MESSAGE value="。。。" />
-    <MESSAGE value="add" />
     <MESSAGE value="review" />
     <MESSAGE value="backtrack" />
-    <option name="LAST_COMMIT_MESSAGE" value="backtrack" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Double pointer/移除元素L27.py">
@@ -1292,8 +1288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tree/好叶子节点对的数量L1530.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        <state relative-caret-position="319">
+          <caret line="48" column="28" lean-forward="true" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
         </state>
       </provider>
     </entry>
