@@ -67,7 +67,7 @@ class Solution:
                 end=mid-1
             elif nums[mid]<target:
                 start =mid+ 1
-        if nums[start]==target and start<len(nums)-1:   #此时 start 和 end 的位置关系是 [start, end] 所以需要对start进行边界判断
+        if nums[start]==target and start<len(nums)-1:   #此时 start 和 end 的位置关系是 [end, start] 所以需要对start进行边界判断
             return start
         else:
             return -1
