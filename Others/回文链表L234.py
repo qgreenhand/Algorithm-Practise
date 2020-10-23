@@ -45,4 +45,27 @@ class Solution:
             li = li.next
             ri = ri.next
         return True
-
+    def isPalindrome(self, head: ListNode) -> bool:
+        """
+        卧槽看到了一个nb的解法。
+        直接hash方法
+        hash=hash*seed+val
+        seed为一个质数val为当前节点值
+        那么
+        考虑正向 hash1=a[1]*seed^(n-1)+a[2]*seed^(n-2)+....+a[n]*seed^0
+        考虑反向 hash2=a[1]*seed^0    +a[2]*seed^1    + ...+a[n]*seed^(n-1)
+        若hash1==hash2则可以确定回文链成立
+        :param head:
+        :return:
+        """
+        cur=head
+        hash1=0
+        hash2=0
+        seed=(int)(1e9 + 7)
+        h=1
+        while cur:
+            hash1=hash1*seed+cur.val
+            hash2=hash2+h*cur.val
+            h*=seed
+            cur=cur.next
+        return hash1==hash2
