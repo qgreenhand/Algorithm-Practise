@@ -33,3 +33,38 @@ class Solution:
                 backTrack(newTable,tmp)
         backTrack(hashTable,[])
         return res
+
+    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
+        """
+        官方题解没事重用python写一遍
+        为了清晰条件判断分的比较细
+        :param nums:
+        :return:
+        """
+        res=[]
+        vist=[False]*len(nums)
+        nums=sorted(nums)
+        def backtrack(havedone):
+            if len(havedone)==len(nums):
+                res.append(havedone)
+                return
+            for i in range(len(nums)):
+                if i==0 and not vist[i]:
+                    vist[0]=True
+                    backtrack(havedone+[nums[0]])
+                    vist[0]=False
+                if i>0 and nums[i]==nums[i-1] and not vist[i] and vist[i-1]:
+                    #去重 由于nums已经排过序所以一样的数字都相邻，每次只能相同数中第一个未被取的数
+                    vist[i] = True
+                    backtrack(havedone + [nums[i]])
+                    vist[i] = False
+                if i>0 and nums[i]!=nums[i-1] and not vist[i]:
+                    vist[i] = True
+                    backtrack(havedone + [nums[i]])
+                    vist[i] = False
+        backtrack([])
+        return res
+
+
+
+
