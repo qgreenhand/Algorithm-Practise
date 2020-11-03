@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="add">
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="ignore">
+      <change afterPath="$PROJECT_DIR$/Dynamic programming/统计只差一个字符的子串数目L1638.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -468,13 +468,7 @@
       <workItem from="1604042386304" duration="606000" />
       <workItem from="1604043553420" duration="87000" />
       <workItem from="1604279583434" duration="4636000" />
-    </task>
-    <task id="LOCAL-00090" summary="just test about combination123">
-      <created>1599809433618</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1599809433619</updated>
+      <workItem from="1604366671944" duration="1706000" />
     </task>
     <task id="LOCAL-00091" summary="review。。。">
       <created>1599978650200</created>
@@ -812,7 +806,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604279803021</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="ignore">
+      <created>1604366765539</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1604366765540</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -828,6 +829,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="快速选择" />
@@ -853,9 +855,9 @@
     <MESSAGE value="I'm so stupid" />
     <MESSAGE value="。。。" />
     <MESSAGE value="a new solution" />
-    <MESSAGE value="ignore" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1604307224509">
