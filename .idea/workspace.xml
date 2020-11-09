@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="ignore">
-      <change afterPath="$PROJECT_DIR$/Dynamic programming/统计只差一个字符的子串数目L1638.py" afterDir="false" />
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +90,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tensorflow2.0study" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -468,14 +467,9 @@
       <workItem from="1604042386304" duration="606000" />
       <workItem from="1604043553420" duration="87000" />
       <workItem from="1604279583434" duration="4636000" />
-      <workItem from="1604366671944" duration="1706000" />
-    </task>
-    <task id="LOCAL-00091" summary="review。。。">
-      <created>1599978650200</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1599978650201</updated>
+      <workItem from="1604366671944" duration="1717000" />
+      <workItem from="1604380052980" duration="648000" />
+      <workItem from="1604880621410" duration="622000" />
     </task>
     <task id="LOCAL-00092" summary="。。。。">
       <created>1600073914150</created>
@@ -813,7 +807,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604366765540</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="add">
+      <created>1604368745888</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1604368745888</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -855,15 +856,15 @@
     <MESSAGE value="I'm so stupid" />
     <MESSAGE value="。。。" />
     <MESSAGE value="a new solution" />
-    <MESSAGE value="add" />
     <MESSAGE value="ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1604307224509">
+    <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1604380101554">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="537" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604307224509" />
+    <state x="537" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604380101554" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604307710326">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
