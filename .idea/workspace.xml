@@ -19,8 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="add">
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="review">
+      <change afterPath="$PROJECT_DIR$/Dynamic programming/自由之路L514.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Morris中序遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/Morris中序遍历.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prefix summary/和为目标值的最大数目不重叠非空子数组数目L1546.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prefix summary/和为目标值的最大数目不重叠非空子数组数目L1546.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -469,14 +472,9 @@
       <workItem from="1604279583434" duration="4636000" />
       <workItem from="1604366671944" duration="1717000" />
       <workItem from="1604380052980" duration="648000" />
-      <workItem from="1604880621410" duration="622000" />
-    </task>
-    <task id="LOCAL-00092" summary="。。。。">
-      <created>1600073914150</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1600073914151</updated>
+      <workItem from="1604880621410" duration="1755000" />
+      <workItem from="1604971564913" duration="2441000" />
+      <workItem from="1605056983042" duration="568000" />
     </task>
     <task id="LOCAL-00093" summary="add some comments">
       <created>1600074076724</created>
@@ -814,7 +812,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604368745888</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="review">
+      <created>1604881730817</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1604881730818</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -851,14 +856,14 @@
     <MESSAGE value="Morris" />
     <MESSAGE value="构造二叉树" />
     <MESSAGE value="todo" />
-    <MESSAGE value="review" />
     <MESSAGE value="backtrack" />
     <MESSAGE value="I'm so stupid" />
     <MESSAGE value="。。。" />
     <MESSAGE value="a new solution" />
     <MESSAGE value="ignore" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="review" />
+    <option name="LAST_COMMIT_MESSAGE" value="review" />
   </component>
   <component name="WindowStateProjectService">
     <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1604380101554">

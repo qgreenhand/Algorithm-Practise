@@ -1,9 +1,12 @@
 from typing import List
+
+
 class Solution:
     """
     给你一个数组 nums 和一个整数 target 。
     请你返回 非空不重叠 子数组的最大数目，且每个子数组中数字和都为 target 。
     """
+
     def maxNonOverlapping(self, nums: List[int], target: int) -> int:
         """
         由于题目要求所有的子数组互不重叠，因此对于某个满足条件的子数组
@@ -19,11 +22,10 @@ class Solution:
         for i in nums:
             presum += i
             if presum - target in s:
-                #清空set防止出现重叠的答案
+                # 清空set防止出现重叠的答案
                 res += 1
                 s = {0}
                 presum = 0
             else:
                 s.add(presum)
         return res
-
