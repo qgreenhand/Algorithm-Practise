@@ -1,10 +1,12 @@
 class Solution:
-    '''
+    """
     给你一个字符串 s 和一个字符规律 p，请你来实现一个支持 '.' 和 '*' 的正则表达式匹配。
     '.' 匹配任意单个字符
     '*' 匹配零个或多个前面的那一个元素
-
-    '''
+    。。。。。。
+    2020/11/12
+    有关*的逻辑没大看懂
+    """
     def isMatch(self, s: str, p: str) -> bool:
         m, n = len(s), len(p)
 
@@ -19,6 +21,8 @@ class Solution:
         f[0][0] = True
         for i in range(m + 1):
             for j in range(1, n + 1):
+                # 卧槽这个思路也太巧妙了吧(2020/11/12)
+
                 if p[j - 1] == '*':
                     f[i][j] |= f[i][j - 2]
                     if matches(i, j - 1):
