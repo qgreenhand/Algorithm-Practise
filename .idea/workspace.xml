@@ -19,23 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="dp">
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="review">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Others/根据身高重建队列L406.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/交错字符串L97.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/交错字符串L97.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/典型动态规划最长重复子数组L718.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/典型动态规划最长重复子数组L718.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/分割等和子集L416.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/分割等和子集L416.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/单词拆分L139.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/单词拆分L139.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/地下城游戏L174.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/地下城游戏L174.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/恢复空格Lm17.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/恢复空格Lm17.13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/戳气球L312.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/戳气球L312.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/括号生成L22.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/括号生成L22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/接雨水L42.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/接雨水L42.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/整数拆分L343.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/整数拆分L343.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/最佳买卖股票时机含冷冻期L309.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/最佳买卖股票时机含冷冻期L309.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/最长回文子串L5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/最长回文子串L5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/最长有效括号L32.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/最长有效括号L32.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/正则表达式匹配L10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/正则表达式匹配L10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/二叉树序列化和反序列化L297.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/二叉树序列化和反序列化L297.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +90,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -487,14 +475,8 @@
       <workItem from="1604880621410" duration="1755000" />
       <workItem from="1604971564913" duration="2441000" />
       <workItem from="1605056983042" duration="4736000" />
-      <workItem from="1605139830351" duration="5024000" />
-    </task>
-    <task id="LOCAL-00095" summary="review 34 about binary search">
-      <created>1600156096395</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1600156096395</updated>
+      <workItem from="1605139830351" duration="7502000" />
+      <workItem from="1605485379337" duration="663000" />
     </task>
     <task id="LOCAL-00096" summary="review L201">
       <created>1600157157515</created>
@@ -832,7 +814,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605057594931</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="review">
+      <created>1605146308846</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1605146308847</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -874,9 +863,9 @@
     <MESSAGE value="a new solution" />
     <MESSAGE value="ignore" />
     <MESSAGE value="add" />
-    <MESSAGE value="review" />
     <MESSAGE value="dp" />
-    <option name="LAST_COMMIT_MESSAGE" value="dp" />
+    <MESSAGE value="review" />
+    <option name="LAST_COMMIT_MESSAGE" value="review" />
   </component>
   <component name="WindowStateProjectService">
     <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1604380101554">
