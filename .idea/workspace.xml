@@ -19,14 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="add">
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="review">
+      <change afterPath="$PROJECT_DIR$/Greedy/用最少数量的箭引爆气球L452.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackTrack/电话号码L17.py" beforeDir="false" afterPath="$PROJECT_DIR$/BackTrack/电话号码L17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary search/分割数组最大值L410.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary search/分割数组最大值L410.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary search/搜索旋转排序数组L33.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary search/搜索旋转排序数组L33.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary search/魔术索引L面试08_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary search/魔术索引L面试08_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic programming/秋叶收藏集L LCP19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/秋叶收藏集L LCP19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Others/根据身高重建队列L406.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others/根据身高重建队列L406.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -483,14 +478,7 @@
       <workItem from="1605485379337" duration="1324000" />
       <workItem from="1605497080449" duration="1203000" />
       <workItem from="1605505870521" duration="29000" />
-      <workItem from="1606089988700" duration="1445000" />
-    </task>
-    <task id="LOCAL-00097" summary="review and add some comment">
-      <created>1600159078154</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1600159078155</updated>
+      <workItem from="1606089988700" duration="2253000" />
     </task>
     <task id="LOCAL-00098" summary="review">
       <created>1600266279243</created>
@@ -828,7 +816,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605486086890</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="review">
+      <created>1606091448785</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1606091448786</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -870,9 +865,9 @@
     <MESSAGE value="a new solution" />
     <MESSAGE value="ignore" />
     <MESSAGE value="dp" />
-    <MESSAGE value="review" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="review" />
+    <option name="LAST_COMMIT_MESSAGE" value="review" />
   </component>
   <component name="WindowStateProjectService">
     <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1605505894612">
