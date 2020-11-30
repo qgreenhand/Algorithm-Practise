@@ -9,13 +9,16 @@ class Solution:
         """
         贪心思想，
         按照最右端排序，找到当前能射爆的最多气球位置
+        ......
+        2020/11/30
+        review 还好能想起来怎么做
         :param points:
         :return:
         """
         if not points:
             return 0
 
-        points.sort(key=lambda balloon: balloon[1])
+        points.sort(key=lambda b: balloon[1])
         pos = points[0][1]
         ans = 1
         for balloon in points:
