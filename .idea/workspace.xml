@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="add">
-      <change afterPath="$PROJECT_DIR$/Greedy/重构字符串L767.py" afterDir="false" />
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="review">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/用最少数量的箭引爆气球L452.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/用最少数量的箭引爆气球L452.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Double pointer/三数之和L5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Double pointer/三数之和L5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Double pointer/最大水池容量L11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Double pointer/最大水池容量L11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -482,14 +482,8 @@
       <workItem from="1606089988700" duration="3830000" />
       <workItem from="1606178331140" duration="1894000" />
       <workItem from="1606478051728" duration="119000" />
-      <workItem from="1606703419440" duration="302000" />
-    </task>
-    <task id="LOCAL-00099" summary="review">
-      <created>1600266383457</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1600266383457</updated>
+      <workItem from="1606703419440" duration="2741000" />
+      <workItem from="1606783913853" duration="1740000" />
     </task>
     <task id="LOCAL-00100" summary="modify">
       <created>1600393350804</created>
@@ -827,7 +821,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606092373931</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="review">
+      <created>1606703736136</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1606703736136</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -869,9 +870,9 @@
     <MESSAGE value="a new solution" />
     <MESSAGE value="ignore" />
     <MESSAGE value="dp" />
-    <MESSAGE value="review" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="review" />
+    <option name="LAST_COMMIT_MESSAGE" value="review" />
   </component>
   <component name="WindowStateProjectService">
     <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1605505894612">
