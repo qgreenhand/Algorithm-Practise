@@ -9,7 +9,9 @@ class Solution(object):
         假设dp[i][j]表示一个布尔值，代表的是“s3 的前 i+j 个字符是否是由s1 的前 i 个字符和s2 的前 j 个字符交错组成的”。
         因为s3是由s1和s2交错组成的，所以s3的末尾必定取自s1的末尾或者s2的末尾。
         dp[i][j] = ( dp[i-1][j] and s1[i-1] == s3[i+j-1] ) or (dp[i][j-1] and s2[[j-1] == s3[i+j-1]] )
-
+        。。。。
+        2020/12/2
+        review 能想到
         """
         if len(s1) + len(s2) != len(s3):
             return False
