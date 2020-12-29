@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="review" />
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="review">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -485,13 +487,8 @@
       <workItem from="1607318193936" duration="124000" />
       <workItem from="1607393520974" duration="1211000" />
       <workItem from="1608440364036" duration="128000" />
-    </task>
-    <task id="LOCAL-00103" summary="ADD the todo, so i can review some time">
-      <created>1600735567590</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1600735567590</updated>
+      <workItem from="1609149614397" duration="152000" />
+      <workItem from="1609202266918" duration="228000" />
     </task>
     <task id="LOCAL-00104" summary="Morris">
       <created>1600909525301</created>
@@ -829,7 +826,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608440459951</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="review">
+      <created>1609149763917</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1609149763917</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
