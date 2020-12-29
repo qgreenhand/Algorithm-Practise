@@ -7,6 +7,9 @@ class Solution:
     def partitionLabels(self, S: str) -> List[int]:
         """
         唉多简单的一道题居然还是看了答案
+        。。。。
+        2020/12/29
+        review 卧槽还是看答案了而且还看了好长时间
 
         :param S:
         :return:
