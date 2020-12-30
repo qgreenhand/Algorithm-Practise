@@ -9,7 +9,7 @@ def adjust_Heap(i, nums):
     # i是当前正在进行调整的子树根节点序号
     lenth = len(nums)
     k = i
-    while (2 * k + 1 <= lenth - 1):
+    while 2 * k + 1 <= lenth - 1:
         if (2 * k + 2 <= lenth - 1) and (nums[2 * k + 1] < nums[2 * k + 2]):
             big_son = 2 * k + 2
         else:

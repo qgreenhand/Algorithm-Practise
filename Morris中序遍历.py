@@ -16,7 +16,7 @@ def MorrisInorder(root: TreeNode):
     """
     curr = root
     pre = None
-    while (curr):
+    while curr:
         if not curr.left:
             print(curr.val)  # 若不存在左子树则打印根节点,将curr指向右子树
             curr = curr.right
