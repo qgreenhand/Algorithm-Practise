@@ -12,7 +12,9 @@ class Solution:
 
         这道题转化为01背包问题
         dp[i][j]代表第[0：i]有没有可能使组合和为j
-
+        。。。
+        2020/12/31
+        review 还行
         :param nums:
         :return:
         """
