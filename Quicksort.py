@@ -1,6 +1,8 @@
 def Quicksort(nums):
     """
     旨在实现一个非递归快速排序
+    。。。。
+    2021.01.02review
     :param nums:
     :return:
     """
