@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="review">
+      <change afterPath="$PROJECT_DIR$/前缀树.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,8 +110,8 @@
       <recent name="F:\LeetCode\Dynamic programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.code1">
-    <configuration name="Quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.前缀树">
+    <configuration name="前缀树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +124,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quicksort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/前缀树.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.前缀树" />
         <item itemvalue="Python.code2" />
         <item itemvalue="Python.do" />
         <item itemvalue="Python tests.pytest for test.test" />
         <item itemvalue="Python.Suanfa1_2" />
-        <item itemvalue="Python.Quicksort" />
       </list>
     </recent_temporary>
   </component>
@@ -493,14 +494,7 @@
       <workItem from="1609374741508" duration="1075000" />
       <workItem from="1609557648491" duration="93000" />
       <workItem from="1609639797169" duration="190000" />
-      <workItem from="1609721408860" duration="322000" />
-    </task>
-    <task id="LOCAL-00111" summary="add">
-      <created>1601344440172</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1601344440173</updated>
+      <workItem from="1609721408860" duration="1400000" />
     </task>
     <task id="LOCAL-00112" summary="add">
       <created>1601564553036</created>
@@ -838,7 +832,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609639959478</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="review">
+      <created>1609722036227</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1609722036231</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -916,6 +917,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$code1.coverage" NAME="code1 Coverage Results" MODIFIED="1604283805655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$.coverage" NAME="前缀树 Coverage Results" MODIFIED="1609722528914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="masterDetails">
     <states>
