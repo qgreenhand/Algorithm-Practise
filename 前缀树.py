@@ -1,3 +1,4 @@
+
 class Node:
 
     def __init__(self, this_value):
@@ -69,8 +70,6 @@ def get_sim_pathes(child_tree, left_path, found_path, collector):
             get_sim_pathes(child_tree.children[child_node], left_path[1:], found_path, collector)
 
 
-import time
-
 if __name__ == '__main__':
     ss = ["我爱北京天安门。", "我爱北京的天安门。"]
 
@@ -79,8 +78,4 @@ if __name__ == '__main__':
         a_simple_trie.add_new_path(list(s))
     #     print(a_simple_trie.__dict__)
     a_simple_trie.print_trie()
-    a_simple_trie.delete_a_path('十九 虽万千人吾往矣\n')
-    t1 = time.time()
-    print(a_simple_trie.get_sim_path("十九"))
-    t2 = time.time()
-    print("耗时是", t2 - t1)
+    print(a_simple_trie.get_sim_path("我爱北京的"))
