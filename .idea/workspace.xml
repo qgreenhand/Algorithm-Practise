@@ -21,6 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="前缀树">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Disjoint Set Union/等式方程的可满足性L990.py" beforeDir="false" afterPath="$PROJECT_DIR$/Disjoint Set Union/等式方程的可满足性L990.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/概率最大路径(Dijkstra)L1514.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/概率最大路径(Dijkstra)L1514.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test4.py" beforeDir="false" afterPath="$PROJECT_DIR$/test4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/前缀树.py" beforeDir="false" afterPath="$PROJECT_DIR$/前缀树.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -495,14 +498,8 @@
       <workItem from="1609557648491" duration="93000" />
       <workItem from="1609639797169" duration="190000" />
       <workItem from="1609721408860" duration="2756000" />
-      <workItem from="1609806016383" duration="1827000" />
-    </task>
-    <task id="LOCAL-00113" summary="add">
-      <created>1601863819649</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1601863819649</updated>
+      <workItem from="1609806016383" duration="3255000" />
+      <workItem from="1609893036498" duration="974000" />
     </task>
     <task id="LOCAL-00114" summary="todo">
       <created>1601987953039</created>
@@ -840,7 +837,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609722832576</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="前缀树">
+      <created>1609807920639</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1609807920640</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -891,22 +895,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="537" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607318314373" />
-    <state width="1493" height="102" key="GridCell.Tab.0.bottom" timestamp="1609807374384">
+    <state width="1493" height="102" key="GridCell.Tab.0.bottom" timestamp="1609809824883">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="102" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609807374384" />
-    <state width="1493" height="102" key="GridCell.Tab.0.center" timestamp="1609807374384">
+    <state width="1493" height="102" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609809824883" />
+    <state width="1493" height="102" key="GridCell.Tab.0.center" timestamp="1609809824883">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="102" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609807374384" />
-    <state width="1493" height="102" key="GridCell.Tab.0.left" timestamp="1609807374384">
+    <state width="1493" height="102" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609809824883" />
+    <state width="1493" height="102" key="GridCell.Tab.0.left" timestamp="1609809824883">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="102" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609807374384" />
-    <state width="1493" height="102" key="GridCell.Tab.0.right" timestamp="1609807374384">
+    <state width="1493" height="102" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609809824883" />
+    <state width="1493" height="102" key="GridCell.Tab.0.right" timestamp="1609809824883">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="102" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609807374384" />
+    <state width="1493" height="102" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609809824883" />
     <state x="257" y="114" key="SettingsEditor" timestamp="1604041733259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
