@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="并查集复习。。。完全忘了">
-      <change afterPath="$PROJECT_DIR$/Disjoint Set Union/省份数量L547.py" afterDir="false" />
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="并查集">
+      <change afterPath="$PROJECT_DIR$/Disjoint Set Union/交换字符串中的元素L1202.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -497,14 +497,9 @@
       <workItem from="1609721408860" duration="2756000" />
       <workItem from="1609806016383" duration="3255000" />
       <workItem from="1609893036498" duration="4450000" />
-      <workItem from="1609978072762" duration="2607000" />
-    </task>
-    <task id="LOCAL-00115" summary="。。。">
-      <created>1602064350630</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1602064350631</updated>
+      <workItem from="1609978072762" duration="4935000" />
+      <workItem from="1610066319843" duration="677000" />
+      <workItem from="1610325740400" duration="824000" />
     </task>
     <task id="LOCAL-00116" summary="add">
       <created>1602202744271</created>
@@ -842,7 +837,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609894034196</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="并查集">
+      <created>1609987094795</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1609987094796</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -861,7 +863,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="review L39" />
     <MESSAGE value="just test about combination123" />
     <MESSAGE value="review。。。" />
     <MESSAGE value="。。。。" />
@@ -886,29 +887,30 @@
     <MESSAGE value="review" />
     <MESSAGE value="前缀树" />
     <MESSAGE value="并查集复习。。。完全忘了" />
-    <option name="LAST_COMMIT_MESSAGE" value="并查集复习。。。完全忘了" />
+    <MESSAGE value="并查集" />
+    <option name="LAST_COMMIT_MESSAGE" value="并查集" />
   </component>
   <component name="WindowStateProjectService">
     <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1607318314373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="537" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607318314373" />
-    <state width="1493" height="102" key="GridCell.Tab.0.bottom" timestamp="1609980013700">
+    <state width="1493" height="102" key="GridCell.Tab.0.bottom" timestamp="1610010934286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="102" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609980013700" />
-    <state width="1493" height="102" key="GridCell.Tab.0.center" timestamp="1609980013697">
+    <state width="1493" height="102" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610010934286" />
+    <state width="1493" height="102" key="GridCell.Tab.0.center" timestamp="1610010934286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="102" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609980013697" />
-    <state width="1493" height="102" key="GridCell.Tab.0.left" timestamp="1609980013696">
+    <state width="1493" height="102" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610010934286" />
+    <state width="1493" height="102" key="GridCell.Tab.0.left" timestamp="1610010934286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="102" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609980013696" />
-    <state width="1493" height="102" key="GridCell.Tab.0.right" timestamp="1609980013698">
+    <state width="1493" height="102" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610010934286" />
+    <state width="1493" height="102" key="GridCell.Tab.0.right" timestamp="1610010934286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="102" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609980013698" />
+    <state width="1493" height="102" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610010934286" />
     <state x="257" y="114" key="SettingsEditor" timestamp="1604041733259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
