@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="并查集">
-      <change afterPath="$PROJECT_DIR$/Disjoint Set Union/交换字符串中的元素L1202.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +91,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tensorflow2.0study" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -499,14 +498,9 @@
       <workItem from="1609893036498" duration="4450000" />
       <workItem from="1609978072762" duration="4935000" />
       <workItem from="1610066319843" duration="677000" />
-      <workItem from="1610325740400" duration="824000" />
-    </task>
-    <task id="LOCAL-00116" summary="add">
-      <created>1602202744271</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1602202744271</updated>
+      <workItem from="1610325740400" duration="984000" />
+      <workItem from="1610410130643" duration="1212000" />
+      <workItem from="1610498075320" duration="342000" />
     </task>
     <task id="LOCAL-00117" summary="add">
       <created>1602239333101</created>
@@ -844,7 +838,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609987094796</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="并查集">
+      <created>1610327179267</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1610327179267</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -891,10 +892,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="并查集" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1607318314373">
+    <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1610413944235">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="537" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607318314373" />
+    <state x="537" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610413944235" />
     <state width="1493" height="102" key="GridCell.Tab.0.bottom" timestamp="1610010934286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
