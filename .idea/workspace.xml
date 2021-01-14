@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="并查集">
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="review">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -501,14 +501,7 @@
       <workItem from="1610325740400" duration="984000" />
       <workItem from="1610410130643" duration="1212000" />
       <workItem from="1610498075320" duration="1840000" />
-      <workItem from="1610588128051" duration="2661000" />
-    </task>
-    <task id="LOCAL-00118" summary="add">
-      <created>1602242416111</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1602242416111</updated>
+      <workItem from="1610588128051" duration="3903000" />
     </task>
     <task id="LOCAL-00119" summary="add">
       <created>1602242673070</created>
@@ -846,7 +839,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610498688937</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="review">
+      <created>1610591137580</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1610591137582</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -886,11 +886,11 @@
     <MESSAGE value="ignore" />
     <MESSAGE value="dp" />
     <MESSAGE value="add" />
-    <MESSAGE value="review" />
     <MESSAGE value="前缀树" />
     <MESSAGE value="并查集复习。。。完全忘了" />
     <MESSAGE value="并查集" />
-    <option name="LAST_COMMIT_MESSAGE" value="并查集" />
+    <MESSAGE value="review" />
+    <option name="LAST_COMMIT_MESSAGE" value="review" />
   </component>
   <component name="WindowStateProjectService">
     <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1610413944235">
