@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="review">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prefix summary/和可被K整除的子数组L974.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prefix summary/和可被K整除的子数组L974.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -501,14 +502,8 @@
       <workItem from="1610325740400" duration="984000" />
       <workItem from="1610410130643" duration="1212000" />
       <workItem from="1610498075320" duration="1840000" />
-      <workItem from="1610588128051" duration="3903000" />
-    </task>
-    <task id="LOCAL-00119" summary="add">
-      <created>1602242673070</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1602242673070</updated>
+      <workItem from="1610588128051" duration="6017000" />
+      <workItem from="1610928592826" duration="603000" />
     </task>
     <task id="LOCAL-00120" summary="add">
       <created>1602343013166</created>
@@ -846,7 +841,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610591137582</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="review">
+      <created>1610592352214</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1610592352214</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
