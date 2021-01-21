@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="review">
-      <change afterPath="$PROJECT_DIR$/Disjoint Set Union/连接所有点的最小费用L1584.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Disjoint Set Union/找到最小生成树里的关键边和伪关键边L1489.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +93,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tensorflow2.0study" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -110,7 +111,7 @@
       <recent name="F:\LeetCode\Dynamic programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.连接所有点的最小费用L1584">
+  <component name="RunManager" selected="Python.code1">
     <configuration name="前缀树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -509,14 +510,11 @@
       <workItem from="1610498075320" duration="1840000" />
       <workItem from="1610588128051" duration="6017000" />
       <workItem from="1610928592826" duration="5557000" />
-      <workItem from="1611015831940" duration="720000" />
-    </task>
-    <task id="LOCAL-00121" summary="add">
-      <created>1602407470443</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1602407470444</updated>
+      <workItem from="1611015831940" duration="4324000" />
+      <workItem from="1611109529639" duration="135000" />
+      <workItem from="1611109700418" duration="618000" />
+      <workItem from="1611121334227" duration="1257000" />
+      <workItem from="1611188870808" duration="1861000" />
     </task>
     <task id="LOCAL-00122" summary="review">
       <created>1602494038186</created>
@@ -854,7 +852,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610929359517</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="review">
+      <created>1611016573665</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1611016573667</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -901,26 +906,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="review" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1610413944235">
+    <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1611022287181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="537" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610413944235" />
-    <state width="1493" height="102" key="GridCell.Tab.0.bottom" timestamp="1610010934286">
+    <state x="537" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611022287181" />
+    <state width="1493" height="147" key="GridCell.Tab.0.bottom" timestamp="1611123483083">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="102" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610010934286" />
-    <state width="1493" height="102" key="GridCell.Tab.0.center" timestamp="1610010934286">
+    <state width="1493" height="147" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611123483083" />
+    <state width="1493" height="147" key="GridCell.Tab.0.center" timestamp="1611123483083">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="102" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610010934286" />
-    <state width="1493" height="102" key="GridCell.Tab.0.left" timestamp="1610010934286">
+    <state width="1493" height="147" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611123483083" />
+    <state width="1493" height="147" key="GridCell.Tab.0.left" timestamp="1611123483083">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="102" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610010934286" />
-    <state width="1493" height="102" key="GridCell.Tab.0.right" timestamp="1610010934286">
+    <state width="1493" height="147" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611123483083" />
+    <state width="1493" height="147" key="GridCell.Tab.0.right" timestamp="1611123483083">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="102" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610010934286" />
+    <state width="1493" height="147" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611123483083" />
     <state x="257" y="114" key="SettingsEditor" timestamp="1604041733259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -931,7 +936,7 @@
     <state x="468" y="10" width="600" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1605140704877" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LeetCode$code1.coverage" NAME="code1 Coverage Results" MODIFIED="1604283805655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$code1.coverage" NAME="code1 Coverage Results" MODIFIED="1611121843949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$L1584.coverage" NAME="连接所有点的最小费用L1584 Coverage Results" MODIFIED="1611016525364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Disjoint Set Union" />
     <SUITE FILE_PATH="coverage/LeetCode$L547.coverage" NAME="省份数量L547 Coverage Results" MODIFIED="1609980013670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Disjoint Set Union" />
     <SUITE FILE_PATH="coverage/LeetCode$.coverage" NAME="前缀树 Coverage Results" MODIFIED="1609807374367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
