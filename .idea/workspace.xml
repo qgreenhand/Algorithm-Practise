@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="review">
-      <change afterPath="$PROJECT_DIR$/Disjoint Set Union/找到最小生成树里的关键边和伪关键边L1489.py" afterDir="false" />
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="并查集">
+      <change afterPath="$PROJECT_DIR$/Others/等价多米诺骨牌对的数量L1128.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -514,14 +513,11 @@
       <workItem from="1611109529639" duration="135000" />
       <workItem from="1611109700418" duration="618000" />
       <workItem from="1611121334227" duration="1257000" />
-      <workItem from="1611188870808" duration="1861000" />
-    </task>
-    <task id="LOCAL-00122" summary="review">
-      <created>1602494038186</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1602494038186</updated>
+      <workItem from="1611188870808" duration="2997000" />
+      <workItem from="1611196947272" duration="623000" />
+      <workItem from="1611198271062" duration="113000" />
+      <workItem from="1611218948224" duration="613000" />
+      <workItem from="1611623853755" duration="1795000" />
     </task>
     <task id="LOCAL-00123" summary="review">
       <created>1602589636520</created>
@@ -859,7 +855,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611016573667</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="并查集">
+      <created>1611194232970</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1611194232970</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -901,15 +904,15 @@
     <MESSAGE value="add" />
     <MESSAGE value="前缀树" />
     <MESSAGE value="并查集复习。。。完全忘了" />
-    <MESSAGE value="并查集" />
     <MESSAGE value="review" />
-    <option name="LAST_COMMIT_MESSAGE" value="review" />
+    <MESSAGE value="并查集" />
+    <option name="LAST_COMMIT_MESSAGE" value="并查集" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1611022287181">
+    <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1611218967784">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="537" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611022287181" />
+    <state x="537" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611218967784" />
     <state width="1493" height="147" key="GridCell.Tab.0.bottom" timestamp="1611123483083">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
