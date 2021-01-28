@@ -1,5 +1,7 @@
 # Definition for a binary tree node.
 from typing import List
+
+
 class TreeNode:
     def __init__(self, x):
         self.val = x
@@ -18,14 +20,14 @@ class Solution:
         """
         if not root:
             return []
-        stack=[]
-        res=[]
-        curr=root
-        while stack or curr:                  #就因为这个条件判断错了半天
-            while curr:                       #遍历到最左下
+        stack = []
+        res = []
+        curr = root
+        while stack or curr:  # 就因为这个条件判断错了半天
+            while curr:  # 遍历到最左下
                 stack.append(curr)
-                curr=curr.left
-            curr=stack.pop()
+                curr = curr.left
+            curr = stack.pop()
             res.append(curr.val)
-            curr=curr.right
+            curr = curr.right
         return res
