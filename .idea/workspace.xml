@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="review">
+      <change afterPath="$PROJECT_DIR$/BackTrack/cwh1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code1.py" afterDir="false" />
     </list>
@@ -92,7 +93,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tensorflow2.0study" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -221,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="do" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cwh1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,12 +230,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BackTrack" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BackTrack/cwh1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cwh1" />
         <item itemvalue="Python.连接所有点的最小费用L1584" />
         <item itemvalue="Python.省份数量L547" />
         <item itemvalue="Python.前缀树" />
         <item itemvalue="Python.code2" />
-        <item itemvalue="Python.do" />
       </list>
     </recent_temporary>
   </component>
@@ -523,7 +524,10 @@
       <workItem from="1611886213617" duration="2893000" />
       <workItem from="1611894807242" duration="760000" />
       <workItem from="1612261714190" duration="1206000" />
-      <workItem from="1612622732574" duration="1248000" />
+      <workItem from="1612622732574" duration="1283000" />
+      <workItem from="1613699807852" duration="399000" />
+      <workItem from="1614047003582" duration="633000" />
+      <workItem from="1614482076033" duration="2655000" />
     </task>
     <task id="LOCAL-00127" summary="add">
       <created>1602986954296</created>
@@ -915,37 +919,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="review" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1611218967784">
+    <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1614047036213">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="537" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611218967784" />
-    <state width="1493" height="147" key="GridCell.Tab.0.bottom" timestamp="1612623538885">
+    <state x="537" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614047036213" />
+    <state width="1493" height="147" key="GridCell.Tab.0.bottom" timestamp="1614486209055">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612623538885" />
-    <state width="1493" height="147" key="GridCell.Tab.0.center" timestamp="1612623538884">
+    <state width="1493" height="147" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614486209055" />
+    <state width="1493" height="147" key="GridCell.Tab.0.center" timestamp="1614486209055">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612623538884" />
-    <state width="1493" height="147" key="GridCell.Tab.0.left" timestamp="1612623538883">
+    <state width="1493" height="147" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614486209055" />
+    <state width="1493" height="147" key="GridCell.Tab.0.left" timestamp="1614486209055">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612623538883" />
-    <state width="1493" height="147" key="GridCell.Tab.0.right" timestamp="1612623538885">
+    <state width="1493" height="147" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614486209055" />
+    <state width="1493" height="147" key="GridCell.Tab.0.right" timestamp="1614486209055">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612623538885" />
-    <state x="257" y="114" key="SettingsEditor" timestamp="1604041733259">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="257" y="114" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604041733259" />
-    <state x="468" y="10" width="600" height="804" key="find.popup" timestamp="1605140704877">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="468" y="10" width="600" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1605140704877" />
+    <state width="1493" height="147" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614486209055" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LeetCode$code1.coverage" NAME="code1 Coverage Results" MODIFIED="1612623538867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$code1.coverage" NAME="code1 Coverage Results" MODIFIED="1614486335354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$cwh1.coverage" NAME="cwh1 Coverage Results" MODIFIED="1614483488432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BackTrack" />
     <SUITE FILE_PATH="coverage/LeetCode$L1584.coverage" NAME="连接所有点的最小费用L1584 Coverage Results" MODIFIED="1611016525364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Disjoint Set Union" />
     <SUITE FILE_PATH="coverage/LeetCode$L547.coverage" NAME="省份数量L547 Coverage Results" MODIFIED="1609980013670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Disjoint Set Union" />
     <SUITE FILE_PATH="coverage/LeetCode$.coverage" NAME="前缀树 Coverage Results" MODIFIED="1609807374367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
