@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="review">
-      <change afterPath="$PROJECT_DIR$/BackTrack/cwh1.py" afterDir="false" />
+    <list default="true" id="131285b5-b08c-42b9-8381-7cc579cbf9d8" name="Default Changelist" comment="cwh面经">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -527,14 +525,7 @@
       <workItem from="1612622732574" duration="1283000" />
       <workItem from="1613699807852" duration="399000" />
       <workItem from="1614047003582" duration="633000" />
-      <workItem from="1614482076033" duration="2655000" />
-    </task>
-    <task id="LOCAL-00127" summary="add">
-      <created>1602986954296</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1602986954297</updated>
+      <workItem from="1614482076033" duration="3394000" />
     </task>
     <task id="LOCAL-00128" summary="add">
       <created>1603153736708</created>
@@ -872,7 +863,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612262347724</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="cwh面经">
+      <created>1614486355091</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1614486355092</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -891,7 +889,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="just test about combination123" />
     <MESSAGE value="review。。。" />
     <MESSAGE value="。。。。" />
     <MESSAGE value="add some comments" />
@@ -916,29 +913,30 @@
     <MESSAGE value="并查集" />
     <MESSAGE value="add" />
     <MESSAGE value="review" />
-    <option name="LAST_COMMIT_MESSAGE" value="review" />
+    <MESSAGE value="cwh面经" />
+    <option name="LAST_COMMIT_MESSAGE" value="cwh面经" />
   </component>
   <component name="WindowStateProjectService">
     <state x="537" y="223" key="FileChooserDialogImpl" timestamp="1614047036213">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="537" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614047036213" />
-    <state width="1493" height="147" key="GridCell.Tab.0.bottom" timestamp="1614486209055">
+    <state width="1493" height="147" key="GridCell.Tab.0.bottom" timestamp="1614519513311">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614486209055" />
-    <state width="1493" height="147" key="GridCell.Tab.0.center" timestamp="1614486209055">
+    <state width="1493" height="147" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614519513311" />
+    <state width="1493" height="147" key="GridCell.Tab.0.center" timestamp="1614519513311">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614486209055" />
-    <state width="1493" height="147" key="GridCell.Tab.0.left" timestamp="1614486209055">
+    <state width="1493" height="147" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614519513311" />
+    <state width="1493" height="147" key="GridCell.Tab.0.left" timestamp="1614519513311">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614486209055" />
-    <state width="1493" height="147" key="GridCell.Tab.0.right" timestamp="1614486209055">
+    <state width="1493" height="147" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614519513311" />
+    <state width="1493" height="147" key="GridCell.Tab.0.right" timestamp="1614519513311">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614486209055" />
+    <state width="1493" height="147" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614519513311" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$code1.coverage" NAME="code1 Coverage Results" MODIFIED="1614486335354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
